@@ -1,6 +1,6 @@
 <div align="right">
-<img src="https://img.shields.io/github/followers/feliplvz?color=pink&logo=github&style=for-the-badge" alt="evalente"> 
-<img src="https://img.shields.io/github/watchers/feliplvz/feliplvz?color=pink&logo=github&style=for-the-badge" alt="evalente" />
+<img src="https://img.shields.io/github/followers/feliplvz?color=pink&logo=github&style=for-the-badge" alt="flopez"> 
+<img src="https://img.shields.io/github/watchers/feliplvz/feliplvz?color=pink&logo=github&style=for-the-badge" alt="flopez" />
 </div>
 <br> 
 
@@ -12,7 +12,7 @@
 <br> 
  
 ```javascript
-const felipelv = {
+const feliplvz = {
   pronouns: "he" | "him",
   code: [Javascript , HTML , CSS , Sass],
   tools: [ReactJS, NodeJS, GIT]
@@ -54,7 +54,6 @@ Y por qué no poder ir más allá ? y por supuesto seguir desarrollandome a mi m
 <p>📫 Contactame: </p>
 
   - Gmail: felipelopez.valenzuela@gmail.com
-  - Telefono: +56 9 31754365
   - LinkedIn: https://www.linkedin.com/in/feliplvz/
   
 <!--
