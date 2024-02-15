@@ -18,17 +18,7 @@ const feliplvz = {
   tools: [ReactJS, NodeJS, GIT]
 }
 ```
-<br> 
-<p width="300">💥 Sobre mi:</p>
-<p align="left">
-Soy una persona apasionada por el arte, la programación y la informática. Siempre he sido una persona creativa, y me encanta explorar nuevas formas de expresión a través del arte. Al mismo tiempo, siempre he sentido curiosidad por la tecnología y su capacidad para mejorar la forma en que vivimos y trabajamos.
 
-Es por eso que decidí estudiar Front End. Esta especialidad me permite combinar mis dos pasiones: el arte y la tecnología. En Front End, puedo utilizar mis habilidades creativas y técnicas para crear interfaces de usuario visualmente atractivas, intuitivas y funcionales para sitios web y aplicaciones.
-
-Me encanta trabajar con lenguajes de programación como HTML, CSS y JavaScript, para crear diseños y animaciones visuales, y asegurarme de que los usuarios tengan una experiencia fluida e intuitiva al interactuar con una página web o aplicación. También disfruto de la oportunidad de resolver problemas y encontrar soluciones creativas para crear interfaces de usuario que funcionen correctamente.
-
-Estudiar Front End no solo me permite combinar mis pasiones, sino también explorar cómo la tecnología puede mejorar la forma en que interactuamos con el mundo. Como profesional Front End, estoy emocionado de seguir aprendiendo y creciendo en esta área, y de crear experiencias de usuario únicas y atractivas para usuarios de todo el mundo.
-</p>
 <br>
 
 <p width="300">💫 Mi Stack Actual:</p>
