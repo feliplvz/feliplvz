@@ -13,9 +13,9 @@
   <code class="language-javascript">
 const feliplvz = {
   pronouns: "he/him",
-  skills:  ["Full-Stack Engineering", 
+  skills:  ["Full-Stack Developer", 
             "Solutions Architect", 
-            "E-commerce Solutions"],
+            "E-comm Solutions"],
   tools: [
     "React", 
     "Next.js", 
