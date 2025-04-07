@@ -1,7 +1,7 @@
-<div align="right">
-  <img src="https://img.shields.io/github/followers/feliplvz?color=pink&logo=github&style=for-the-badge" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/watchers/feliplvz/feliplvz?color=pink&logo=github&style=for-the-badge" alt="GitHub Watchers">
+<div align="center">
+  <img src="https://img.shields.io/badge/-Next%20Level%20Dev-76FF03?style=for-the-badge&logoUrl=https%3A%2F%2Fimg.icons8.com%2Fios-filled%2F50%2F000000%2Falien.png&logoColor=white" alt="Next Level Dev">
 </div>
+
 
 <h1 align="center">👋 Hola, soy Felipe López</h1>
 
