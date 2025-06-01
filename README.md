@@ -61,6 +61,6 @@ const feliplvz = {
 
 <h2 align="center">📫 Contáctame</h2>
 <p align="center">
-  Email: <a href="contacto@nobrandly.cl">contacto@nobrandly.cl</a><br>
+  Email: <a href="contacto@nobrandly.cl">felipe.lv@roffstudio.com</a><br>
   LinkedIn: <a href="https://www.linkedin.com/in/feliplvz/" target="_blank">Felipe López</a>
 </p>
