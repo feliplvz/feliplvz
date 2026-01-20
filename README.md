@@ -1,70 +1,50 @@
-# Felipe López
+# Hi there, I'm Felipe López 👋
+### Full-Stack Developer · Chile 🇨🇱
 
-Full-Stack Developer · Chile 🇨🇱
-
-Building digital products with modern web technologies.
-
----
-
-## Now
-
-Currently working on web applications, e-commerce solutions, and mobile apps using React, Next.js, TypeScript, and React Native. Focused on clean code, performance, and user experience.
-
-**Recent work:**
-
-- Corporate websites for B2B and service companies
-- E-learning platforms with course management systems
-- Order tracking system with VTEX integration
-- Business analytics platforms with real-time dashboards
-- API integration services and data synchronization
+> *Transforming ideas into scalable code.*
 
 ---
 
-## Stack
+### 🚀 About Me
+I'm a **Full Stack Developer** and **Founder at Grid Lab**, passionate about software architecture and product development.
 
-**Frontend**  
-React · Next.js · Vite · TypeScript · Tailwind CSS · shadcn/ui · HeroUI
+Instead of just writing code, I focus on solving business problems using the right tools. My background mixes technical depth (Next.js, Node, Kotlin) with e-commerce operations experience (VTEX, Odoo).
 
-**Backend**  
-Node.js · Python · FastAPI · Supabase · PostgreSQL
-
-**Mobile**  
-Expo · React Native · Kotlin
-
-**E-commerce & Integrations**  
-VTEX · Shopify · Transbank · Mercado Pago · Stripe
-
-**Tools**  
-Git · Docker · Vercel · Figma · VS Code
+**🔭 Current Focus & R&D:**
+* **SaaS Architecture:** Building modular web apps with **Next.js 14/15/16** (App Router) & **TypeScript**.
+* **Mobile Engineering:** Exploring native Android development with **Kotlin** & **Jetpack Compose**.
+* **E-commerce Tech:** Developing custom integrations for **VTEX** & **Shopify** ecosystems.
+* **HomeLab:** Self-hosting services and learning Linux administration on bare metal.
 
 ---
 
-## Experience
+### 🛠 Tech Stack
 
-**Full-Stack Development**
+**Frontend**
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwindcss)
 
-- Web applications with React/Next.js
-- REST APIs and backend services
-- Database design and optimization
-- E-commerce integrations (VTEX, Shopify)
+**Backend & Integrations**
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 
-**Recent Projects**
+**Mobile**
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
+![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
 
-- Order tracking system with VTEX integration for e-commerce
-- E-commerce solutions with custom integrations
-- Corporate websites with CMS implementations
-- Educational platforms with student tracking systems
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VTEX](https://img.shields.io/badge/-VTEX-F71963?style=flat-square&logo=vtex&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## Contact
+### 📫 Connect
+* 💼 [LinkedIn: feliplvz](https://www.linkedin.com/in/feliplvz/)
+* 🌐 [Grid Lab (Dev Studio)](https://gridlab.tech)
 
-🔗 [linkedin.com/in/feliplvz](https://linkedin.com/in/feliplvz)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feliplvz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feliplvz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![Profile Views](https://komarev.com/ghpvc/?username=feliplvz&color=58a6ff&style=flat-square)
