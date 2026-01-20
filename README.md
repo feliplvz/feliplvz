@@ -45,6 +45,6 @@ Instead of just writing code, I focus on solving business problems using the rig
 ---
 
 ### 📫 Connect
-* 💼 [LinkedIn: feliplvz](https://www.linkedin.com/in/feliplvz/)
+* 💼 [LinkedIn: feliplvz](https://www.linkedin.com/in/felipe-lv/)
 * 🌐 [Grid Lab (Dev Studio)](https://gridlab.tech)
 
